@@ -2,6 +2,8 @@
 
 **Consulta CNPJ** é um aplicativo em Python que permite consultar, processar e exibir dados detalhados de empresas a partir de seus CNPJs. Ele utiliza uma API pública para extrair informações como razão social, endereço, telefone, e-mail e muito mais, exibindo os resultados em uma interface gráfica fácil de usar.
 
+![Visão Geral do Consulta CNPJ](images/imagem.png)
+
 ## Funcionalidades
 
 - Seleção de arquivo com lista de CNPJs em Excel.
