@@ -32,7 +32,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/consulta-cnpj.git
+   git clone https://github.com/fpedrolucas95/consulta-cnpj.git
    ```
 2. Crie um ambiente virtual e instale as dependências:
 
